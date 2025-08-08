@@ -1,0 +1,27 @@
+.office-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.office-card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.office-image {
+  width: 20%;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
+
+.low-rent {
+  color: red;
+}
+
+.high-rent {
+  color: green;
+}
